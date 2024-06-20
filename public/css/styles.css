@@ -1,0 +1,23 @@
+.card-img-top {
+    width: 60%; /* Reduce el tamaño al 60% */
+    height: auto; /* Mantiene la proporción de aspecto */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+    display: block; /* Asegura que el margen automático funcione correctamente */
+}
+
+.custom-navbar {
+    background-color: #F1802D;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: black !important;
+}
+
+.custom-navbar .navbar-brand {
+    margin-left: 1cm; /* Margen de 1 cm a la izquierda */
+}
+
+.custom-navbar .btn-outline-primary {
+    margin-left: auto; /* Mueve el botón de carrito a la derecha */
+}

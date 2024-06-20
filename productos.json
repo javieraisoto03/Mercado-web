@@ -1,0 +1,8 @@
+[
+    { "nombre": "Bananas 1kg.", "imagen": "banana.png" },
+    { "nombre": "Cebolla unidad.", "imagen": "cebollas.png" },
+    { "nombre": "Lechuga", "imagen": "lechuga.png" },
+    { "nombre": "Papas 1kg.", "imagen": "papas.png" },
+    { "nombre": "Pimenton unidad.", "imagen": "pimenton.png" },
+    { "nombre": "Tomate granel.", "imagen": "tomate.png" }
+]
